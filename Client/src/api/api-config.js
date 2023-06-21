@@ -1,0 +1,1 @@
+export const apiUrl = path => `${process.env.REACT_APP_SERVER}/${path}`
